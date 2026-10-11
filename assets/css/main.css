@@ -1366,7 +1366,7 @@ input, select, textarea {
 
 	strong, b, h1, h2, h3, h4, h5, h6 {
 		font-weight: 400;
-		color: #363636;
+		color: hsl(0, 0%, 21%);
 	}
 
 	h1 {
@@ -1380,7 +1380,7 @@ input, select, textarea {
 	}
 
 	h3, h4, h5, h6 {
-		font-size: 1.25em;
+		font-size: 1em;
 		letter-spacing: -0.015em;
 	}
 
@@ -1436,7 +1436,31 @@ input, select, textarea {
 	p, ul, ol, dl, table, blockquote, form {
 		margin-bottom: 2em;
 	}
-
+/*
+========================================================================
+PRISCILLA CODE TABLES
+========================================================================
+*/
+.projectDescriptionsSection{
+	display: flex;
+	flex-direction: column;
+	margin-top: 2rem;
+}
+.projectDescriptionsSection > h3{
+	color: rgb(172, 134, 105)
+}
+.projectDescriptionsSection > p, h4, span{
+	font-size: 0.8em;
+}
+.listSection{
+	display: flex;
+	flex-direction: row;
+	gap: 0.7rem;
+	text-wrap: wrap;
+}
+.listSection > span{
+	font-weight: bold;
+}
 
 /* Table */
 
