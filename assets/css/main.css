@@ -1447,19 +1447,27 @@ PRISCILLA CODE TABLES
 	margin-top: 2rem;
 }
 .projectDescriptionsSection > h3{
-	color: rgb(172, 134, 105)
+	color: rgb(134, 100, 74);
+	font-size: 1.5rem;
+	font-weight: bold;
 }
 .projectDescriptionsSection > p, h4, span{
 	font-size: 0.8em;
 }
-.listSection{
+/* .listSection{
 	display: flex;
 	flex-direction: row;
-	gap: 0.7rem;
-	text-wrap: wrap;
+	gap: 0.7rem; 
+} */
+.listSection > h4{
+	display: inline;
+	font-weight: bold;
+	/* margin-left: 1rem; */
 }
 .listSection > span{
+	display: inline;
 	font-weight: bold;
+	margin-left: 0.5rem;
 }
 
 /* Table */
@@ -1593,6 +1601,7 @@ article a{
 		.image.fit {
 			display: block;
 			width: 100%;
+			
 		}
 
 		.image.featured {
