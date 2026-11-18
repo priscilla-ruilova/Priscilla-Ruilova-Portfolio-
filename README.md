@@ -1,6 +1,10 @@
 # Welcome to my portfolio website! 
 
-## This lovely design was created by AJ (aj@lkn.io | @ajlkn) from HTML5 UP for personal use and I had a lot of fun personalizing it to meet my needs and design preferences. 
+This lovely design was created by AJ (aj@lkn.io | @ajlkn) from HTML5 UP for personal use and I had a lot of fun personalizing it to meet my needs and design preferences. 
+
+## Live Link
+
+Visit my porfolio website by [clicking here!](priscilla-ruilova.netlify.app/)
 
 ![screenshot of my portfolio](images/screenshotOfWebsite.png)
 ### Features
