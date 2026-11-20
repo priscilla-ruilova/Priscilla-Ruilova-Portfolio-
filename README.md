@@ -4,7 +4,7 @@ This lovely design was created by AJ (aj@lkn.io | @ajlkn) from HTML5 UP for pers
 
 ## Live Link
 
-Visit my porfolio website by [clicking here!](priscilla-ruilova.netlify.app/)
+Visit my porfolio website by [clicking here!](https://priscilla-ruilova.netlify.app)
 
 ![screenshot of my portfolio](images/screenshotOfWebsite.png)
 ### Features
